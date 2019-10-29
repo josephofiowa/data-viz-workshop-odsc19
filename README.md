@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephofiowa/data-viz-workshop-odsc19/master)
+
+
 # Data Visualization: From Square One to Interactivity
 
 ### Blog Posts/Presentations about Visualization
